@@ -1,3 +1,20 @@
+# LFR(Line Following Robot)
+
+## Overview
+Arduino-based line following robot using IR sensors.
+
+## Features
+- High-speed tracking
+- Easy to build
+- simple coding
+
+
+## Hardware
+- Arduino Uno
+- L298N
+- IR sensor array
+- DC motors
+
 To build a Line Following Robot (LFR), follow these 5 simple steps:
 
 Step 01: Learn about the components
