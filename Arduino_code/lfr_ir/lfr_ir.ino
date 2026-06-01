@@ -1,23 +1,3 @@
-// const int sensorPins[5] = {A5, A4, A3, A2, A1};
-
-// void setup() {
-//   Serial.begin(9600);
-//   Serial.println("TCRT5000 RAW Sensor Values");
-//   Serial.println("Format: A5  A4  A3  A2  A1");
-// }
-
-// void loop() {
-
-//   for (int i = 0; i < 5; i++) {
-//     int value = analogRead(sensorPins[i]);
-//     Serial.print(value);
-//     Serial.print("\t");   // tab spacing
-//   }
-
-//   Serial.println();
-//   delay(200);
-// }
-
 #define NUM_SENSORS 5
 
 int sensorPins[NUM_SENSORS] = {A5, A4, A3, A2, A1};
