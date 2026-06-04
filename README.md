@@ -40,14 +40,14 @@ Finally, open “Arduino_code” and upload “last_code.ino” to run the robot
 
 LFR component list:
 1) Arduino Nano
-2) N20 12v 800 RPM (motor) or 16 GA Gear Motor
+2) N20 (motor) or 16 GA Gear Motor
 3) N20 motor mounting
 4) N20 DC Gear Motor Wheel 3PI miniQ Car wheel Tyre
 5) Ball Caster N20
 6) Line Follower Sensor (5 or 8 array)
 7) Motor Driver - L298N or TB6612FNG (needs a buck converter)
 8) Lipo Battery 1000mAh 11.1V 3S
-9) B3 Pro Lipo Balance Charger or B6 neo+
+9) B3 Pro Lipo Balance Charger or B6 neo+(recommended)
 10) XT60 (plug)
 11) switch
 
